@@ -6,7 +6,7 @@
 /*
 Plugin Name: My Awesome Fonts
 Plugin URI: https://tech.franzone.blog/
-Description: This is my own personal copy of the Font Awesome package (version 5.1.3).
+Description: This is my own personal copy of the Font Awesome package (version 5.1.3). See https://fontawesome.com/v5/search?m=free
 Author: Jonathan Franzone
 Version: 5.1.3
 Author URI: https://about.franzone.come
